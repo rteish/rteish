@@ -7,7 +7,8 @@
 -     email: rt8552821@gmail.com
 - 😄 Pronoun: Male
 - ⚡ Fun fact: Mitochondria ia a powerhouse of a cell
-
+- <br>
+     <p>Isn't it funny I added my contact info and still added my contact info </p>
 <!---
 rteish/rteish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
